@@ -1,7 +1,8 @@
 # midterm_887342
-ส่งข้อสอบ
 
-พื้นฐานเกี่ยวกับ Version Control และ git
+#ส่งข้อสอบ
+
+#พื้นฐานเกี่ยวกับ Version Control และ git
 
 11. โปรแกรม Version Control มีประโยชน์อย่างไร
 
